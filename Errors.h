@@ -2,7 +2,7 @@
 typedef enum
 {
 	OUTPUT_OK,
-	OUTPUT_OPEN,
+
 	OUTPUT_SHORT,
 	OUTPUT_ERROR,
 } ERRORS;
